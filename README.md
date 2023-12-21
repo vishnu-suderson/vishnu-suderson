@@ -54,7 +54,7 @@ at all times I loved in coding in Hackerrank and other websites
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://in.linkedin.com/in/m-vishnu-suderson-786971238)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />(https://www.linkedin.com/in/vishnusuderson?trk=contact-info)
 </p>
 
 
